@@ -2,9 +2,12 @@ Hi.
 
 I just started working on this README. I'm not sure what I want here, so I am doing some experimentation.
 
-The list below was generated from the Topics assigned to each public repository as of 2023-03-30.
+<details>
+<summary><b>Repositories by Topic</b></summary>
 
-### Repositories with Topic
+- The list below was generated based on the Topics assigned to each public repository as of 2023-03-30.
+
+- Note: These [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) are made using the `<details>` tag.
 
 <details>
 <summary>Azure</summary>
@@ -249,4 +252,6 @@ The list below was generated from the Topics assigned to each public repository 
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
 </ul>
+</details>
+
 </details>
