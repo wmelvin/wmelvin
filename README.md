@@ -1,13 +1,13 @@
 Hi. 
 
-I just started working on this README. I'm not sure what I want here, so I am doing some experimentation.
+Still experimenting with this README.
 
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-- The list below was generated based on the Topics assigned to each public repository as of 2023-03-30.
+- The list below was generated based on the Topics assigned to each public repository as of 2023-04-02.
 
-- Note: These [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) are made using the `<details>` tag.
+- Note: These [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) are made using the `&lt;details&gt;` tag.
 
 <details>
 <summary>Azure</summary>
@@ -31,6 +31,8 @@ I just started working on this README. I'm not sure what I want here, so I am do
 <details>
 <summary>backups</summary>
 <ul>
+<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator.</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups.</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script.</li>
 </ul>
 </details>
@@ -147,6 +149,18 @@ I just started working on this README. I'm not sure what I want here, so I am do
 </ul>
 </details>
 <details>
+<summary>fossil-scm</summary>
+<ul>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups.</li>
+</ul>
+</details>
+<details>
+<summary>git</summary>
+<ul>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups.</li>
+</ul>
+</details>
+<details>
 <summary>id3</summary>
 <ul>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file.</li>
@@ -253,5 +267,5 @@ I just started working on this README. I'm not sure what I want here, so I am do
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
 </ul>
 </details>
-
 </details>
+<!-- Generated 2023-04-02 18:40 UTC by topics_md.py (v.230402.1) -->
