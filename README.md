@@ -7,7 +7,7 @@ Still experimenting with this README.
 
 - The list below was generated based on the Topics assigned to each public repository as of 2023-04-02.
 
-- Note: These [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) are made using the `&lt;details&gt;` tag.
+- Note: The GitHub docs describe how to use [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
 
 <details>
 <summary>Azure</summary>
@@ -268,4 +268,4 @@ Still experimenting with this README.
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-02 18:40 UTC by topics_md.py (v.230402.1) -->
+<!-- Generated 2023-04-02 18:49 UTC by topics_md.py (v.230402.1) -->
