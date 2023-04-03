@@ -1,12 +1,10 @@
-The sections below categorize my public repositories by Topic and License.
-
----
+The sections below categorize my public repositories by Topic and License:
 
 <!-- Begin_Repositories_by_Topic -->
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-The list below was generated based on the Topics assigned to each public repository as of 2023-04-03.
+*The list below was generated based on the Topics assigned to each public repository as of 2023-04-03.*
 
 <details>
 <summary>Azure</summary>
@@ -267,16 +265,14 @@ The list below was generated based on the Topics assigned to each public reposit
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-03 21:48 UTC by topics_md.py (v.230403.1) -->
+<!-- Generated 2023-04-03 21:56 UTC by topics_md.py (v.230403.1) -->
 <!-- End_Repositories_by_Topic -->
-
----
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-The list below was generated based on the License assigned to each public repository as of 2023-04-03.
+*The list below was generated based on the License assigned to each public repository as of 2023-04-03.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -338,14 +334,12 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-03 21:48 UTC by topics_md.py (v.230403.1) -->
+<!-- Generated 2023-04-03 21:56 UTC by topics_md.py (v.230403.1) -->
 <!-- End_Repositories_by_License -->
-
----
 
 <details>
 <summary><b>Notes</b></summary>
 
-- The GitHub docs describe how to use [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
+- The GitHub docs describe how to use these [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
 
 </details>
