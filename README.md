@@ -1,4 +1,3 @@
-The sections below categorize my public repositories by Topic and License:
 
 <!-- Begin_Repositories_by_Topic -->
 <details>
