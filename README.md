@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2023-04-03.*
+*The list below was generated based on the Topics assigned to each public repository as of 2023-04-05.*
 
 <details>
 <summary>Azure</summary>
@@ -49,6 +49,7 @@
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
@@ -87,6 +88,7 @@
 <details>
 <summary>documentation-tool</summary>
 <ul>
+<li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
@@ -154,6 +156,12 @@
 <summary>git</summary>
 <ul>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+</ul>
+</details>
+<details>
+<summary>github-api</summary>
+<ul>
+<li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -227,6 +235,7 @@
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
@@ -264,14 +273,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-03 21:56 UTC by topics_md.py (v.230403.1) -->
+<!-- Generated 2023-04-05 20:27 UTC by topics_md.py (v.230405.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2023-04-03.*
+*The list below was generated based on the License assigned to each public repository as of 2023-04-05.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -313,6 +322,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more).</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database.</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path.</li>
+<li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API.</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images.</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images.</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT.</li>
@@ -333,11 +343,13 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-03 21:56 UTC by topics_md.py (v.230403.1) -->
+<!-- Generated 2023-04-05 20:27 UTC by topics_md.py (v.230405.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
 <summary><b>Notes</b></summary>
+
+- The code, used to generate the *Repositories by Topic* and *Repositories by License* sections, is in the [github-repo-info](https://github.com/wmelvin/github-repo-info) repository.
 
 - The GitHub docs describe how to use these [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
 
