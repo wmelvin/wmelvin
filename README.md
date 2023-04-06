@@ -3,10 +3,10 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2023-04-05.*
+*The list below was generated based on the Topics assigned to each public repository as of 2023-04-06. Any repository may be under multiple topics.*
 
 <details>
-<summary>Azure</summary>
+<summary>Azure <sup>(7)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
@@ -18,14 +18,14 @@
 </ul>
 </details>
 <details>
-<summary>Azure Functions</summary>
+<summary>Azure Functions <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 </ul>
 </details>
 <details>
-<summary>backups</summary>
+<summary>backups <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
@@ -33,14 +33,14 @@
 </ul>
 </details>
 <details>
-<summary>bash</summary>
+<summary>bash <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>Command-Line Tools</summary>
+<summary>Command-Line Tool <sup>(18)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
@@ -63,20 +63,20 @@
 </ul>
 </details>
 <details>
-<summary>converter</summary>
+<summary>converter <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>coursework</summary>
+<summary>coursework <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>C#</summary>
+<summary>C# <sup>(5)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
@@ -86,7 +86,7 @@
 </ul>
 </details>
 <details>
-<summary>documentation-tool</summary>
+<summary>documentation-tool <sup>(6)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
@@ -97,14 +97,14 @@
 </ul>
 </details>
 <details>
-<summary>Documents</summary>
+<summary>Documents <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/completed-courses">completed-courses</a> - Documenting my completed training courses.</li>
 <li><a href="https://github.com/wmelvin/stuff">stuff</a> - A place for stuff, like Markdown files with notes and links, and other whatnot. (Other)</li>
 </ul>
 </details>
 <details>
-<summary>explore</summary>
+<summary>explore <sup>(11)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
@@ -120,7 +120,7 @@
 </ul>
 </details>
 <details>
-<summary>Firefox</summary>
+<summary>Firefox <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
@@ -128,68 +128,68 @@
 </ul>
 </details>
 <details>
-<summary>firefox-extension</summary>
+<summary>firefox-extension <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
 </ul>
 </details>
 <details>
-<summary>flask</summary>
+<summary>flask <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 </ul>
 </details>
 <details>
-<summary>forked-repo</summary>
+<summary>forked-repo <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>fossil-scm</summary>
+<summary>fossil-scm <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>git</summary>
+<summary>git <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>github-api</summary>
+<summary>github-api <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>id3</summary>
+<summary>id3 <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>image-generation</summary>
+<summary>image-generation <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>javascript</summary>
+<summary>javascript <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
 </ul>
 </details>
 <details>
-<summary>jupyter-notebook</summary>
+<summary>jupyter-notebook <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
 </ul>
 </details>
 <details>
-<summary>pillow</summary>
+<summary>Pillow (Python Imaging Library fork) <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
@@ -197,7 +197,7 @@
 </ul>
 </details>
 <details>
-<summary>PowerShell</summary>
+<summary>PowerShell <sup>(6)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
@@ -208,7 +208,7 @@
 </ul>
 </details>
 <details>
-<summary>Pytest</summary>
+<summary>pytest <sup>(10)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
@@ -223,7 +223,7 @@
 </ul>
 </details>
 <details>
-<summary>Python</summary>
+<summary>Python <sup>(20)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
@@ -248,7 +248,7 @@
 </ul>
 </details>
 <details>
-<summary>sqlite</summary>
+<summary>sqlite <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
@@ -256,13 +256,13 @@
 </ul>
 </details>
 <details>
-<summary>venv</summary>
+<summary>venv <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>Web</summary>
+<summary>Web <sup>(6)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
@@ -273,14 +273,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-05 20:27 UTC by topics_md.py (v.230405.1) -->
+<!-- Generated 2023-04-06 12:55 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2023-04-05.*
+*The list below was generated based on the License assigned to each public repository as of 2023-04-06.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -343,7 +343,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-05 20:27 UTC by topics_md.py (v.230405.1) -->
+<!-- Generated 2023-04-06 12:55 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
