@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2023-04-06. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2023-05-28. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(7)</sup></summary>
@@ -153,9 +153,10 @@
 </ul>
 </details>
 <details>
-<summary>git <sup>(1)</sup></summary>
+<summary>git <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -273,14 +274,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-06 12:55 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-05-28 20:00 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2023-04-06.*
+*The list below was generated based on the License assigned to each public repository as of 2023-05-28.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -343,7 +344,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-04-06 12:55 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-05-28 20:00 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
