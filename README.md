@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2023-05-28. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2023-06-13. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(7)</sup></summary>
@@ -69,9 +69,10 @@
 </ul>
 </details>
 <details>
-<summary>coursework <sup>(2)</sup></summary>
+<summary>coursework <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
 </details>
@@ -160,6 +161,12 @@
 </ul>
 </details>
 <details>
+<summary>github-actions <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
+</ul>
+</details>
+<details>
 <summary>github-api <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
@@ -209,7 +216,7 @@
 </ul>
 </details>
 <details>
-<summary>pytest <sup>(10)</sup></summary>
+<summary>pytest <sup>(11)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
@@ -219,12 +226,13 @@
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>Python <sup>(20)</sup></summary>
+<summary>Python <sup>(21)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
@@ -242,6 +250,7 @@
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
@@ -274,14 +283,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2023-05-28 20:00 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-06-13 16:22 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2023-05-28.*
+*The list below was generated based on the License assigned to each public repository as of 2023-06-13.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -329,6 +338,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT.</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them.</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file.</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard </li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document.</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV.</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items.</li>
@@ -344,7 +354,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-05-28 20:00 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-06-13 16:22 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
