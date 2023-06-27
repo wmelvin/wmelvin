@@ -362,6 +362,6 @@ Repositories with no license may be:
 
 - The code, used to generate the *Repositories by Topic* and *Repositories by License* sections, is in the [github-repo-info](https://github.com/wmelvin/github-repo-info) repository.
 
-- The GitHub docs describe how to use these [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
+- The GitHub docs describe how to create a [profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), and how to use [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
 
 </details>
