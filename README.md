@@ -3,11 +3,12 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2023-08-23. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2023-10-29. Any repository may be under multiple topics.*
 
 <details>
-<summary>Azure <sup>(7)</sup></summary>
+<summary>Azure <sup>(8)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
@@ -15,6 +16,12 @@
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
+</ul>
+</details>
+<details>
+<summary>azure-custom-script-extension <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 </ul>
 </details>
 <details>
@@ -156,11 +163,18 @@
 </ul>
 </details>
 <details>
-<summary>git <sup>(3)</sup></summary>
+<summary>git <sup>(4)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
+</ul>
+</details>
+<details>
+<summary>github <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 </ul>
 </details>
 <details>
@@ -200,6 +214,12 @@
 </ul>
 </details>
 <details>
+<summary>lazarus-ide <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+</ul>
+</details>
+<details>
 <summary>Pillow (Python Imaging Library fork) <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
@@ -208,8 +228,9 @@
 </ul>
 </details>
 <details>
-<summary>PowerShell <sup>(6)</sup></summary>
+<summary>PowerShell <sup>(7)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
@@ -287,14 +308,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2023-08-23 21:15 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-10-29 21:20 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2023-08-23.*
+*The list below was generated based on the License assigned to each public repository as of 2023-10-29.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -304,6 +325,7 @@ Repositories with no license may be:
 <details>
 <summary>(none)</summary>
 <ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/completed-courses">completed-courses</a> - Documenting my completed training courses.</li>
@@ -359,7 +381,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-08-23 21:15 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-10-29 21:20 UTC by topics_md.py (v.230406.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
