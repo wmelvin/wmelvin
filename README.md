@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2023-11-22. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2023-12-05. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(8)</sup></summary>
@@ -84,7 +84,7 @@
 <ul>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
-<li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
+<li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -98,11 +98,12 @@
 </ul>
 </details>
 <details>
-<summary>documentation-tool <sup>(9)</sup></summary>
+<summary>documentation-tool <sup>(10)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
+<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
@@ -156,9 +157,10 @@
 </ul>
 </details>
 <details>
-<summary>forked-repo <sup>(1)</sup></summary>
+<summary>forked-repo <sup>(2)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
+<li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
+<li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -197,7 +199,7 @@
 <details>
 <summary>gui-application <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
+<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -228,13 +230,13 @@
 <summary>lazarus-ide <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
-<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
+<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
 </ul>
 </details>
 <details>
 <summary>pascal <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
+<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -277,11 +279,12 @@
 </ul>
 </details>
 <details>
-<summary>Python <sup>(24)</sup></summary>
+<summary>Python <sup>(25)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
@@ -337,14 +340,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2023-11-23 02:50 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-12-06 04:10 UTC by topics_md.py (v2023.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2023-11-22.*
+*The list below was generated based on the License assigned to each public repository as of 2023-12-05.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -358,11 +361,11 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/completed-courses">completed-courses</a> - Documenting my completed training courses.</li>
+<li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
-<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
@@ -391,6 +394,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path.</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API.</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images.</li>
+<li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images.</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT.</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix.</li>
@@ -401,7 +405,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots.</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV.</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items.</li>
-<li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> - Talk Python Training - Python Data Visualization course code and examples</li>
+<li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples</li>
 <li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory.</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script.</li>
 </ul>
@@ -413,7 +417,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-11-23 02:50 UTC by topics_md.py (v.230406.1) -->
+<!-- Generated 2023-12-06 04:10 UTC by topics_md.py (v2023.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
