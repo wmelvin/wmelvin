@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2023-12-05. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-01-01. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(8)</sup></summary>
@@ -340,14 +340,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2023-12-06 04:10 UTC by topics_md.py (v2023.12.1) -->
+<!-- Generated 2024-01-01 20:54 UTC by topics_md.py (v2024.01.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2023-12-05.*
+*The list below was generated based on the License assigned to each public repository as of 2024-01-01.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -417,7 +417,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2023-12-06 04:10 UTC by topics_md.py (v2023.12.1) -->
+<!-- Generated 2024-01-01 20:54 UTC by topics_md.py (v2024.01.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
