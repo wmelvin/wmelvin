@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-01-01. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-01-25. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(8)</sup></summary>
@@ -157,9 +157,10 @@
 </ul>
 </details>
 <details>
-<summary>forked-repo <sup>(2)</sup></summary>
+<summary>forked-repo <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
+<li><a href="https://github.com/wmelvin/htmx-python-course-wm">htmx-python-course-wm</a> (fork) - Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
 </details>
@@ -340,14 +341,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-01-01 20:54 UTC by topics_md.py (v2024.01.1) -->
+<!-- Generated 2024-01-25 14:07 UTC by topics_md.py (v2024.01.2) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-01-01.*
+*The list below was generated based on the License assigned to each public repository as of 2024-01-25.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -393,6 +394,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit.</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path.</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API.</li>
+<li><a href="https://github.com/wmelvin/htmx-python-course-wm">htmx-python-course-wm</a> (fork) - Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course.</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images.</li>
 <li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images.</li>
@@ -417,7 +419,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-01-01 20:54 UTC by topics_md.py (v2024.01.1) -->
+<!-- Generated 2024-01-25 14:07 UTC by topics_md.py (v2024.01.2) -->
 <!-- End_Repositories_by_License -->
 
 <details>
