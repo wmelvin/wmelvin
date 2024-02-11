@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-01-26. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-02-11. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(8)</sup></summary>
@@ -57,7 +57,7 @@
 </ul>
 </details>
 <details>
-<summary>Command-Line Tool <sup>(21)</sup></summary>
+<summary>Command-Line Tool <sup>(22)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
@@ -73,6 +73,7 @@
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
@@ -204,8 +205,9 @@
 </ul>
 </details>
 <details>
-<summary>id3 <sup>(1)</sup></summary>
+<summary>id3 <sup>(2)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
 </ul>
 </details>
@@ -235,6 +237,13 @@
 </ul>
 </details>
 <details>
+<summary>mp3-tags <sup>(2)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
+</ul>
+</details>
+<details>
 <summary>pascal <sup>(1)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
@@ -253,7 +262,7 @@
 </ul>
 </details>
 <details>
-<summary>Python <sup>(25)</sup></summary>
+<summary>Python <sup>(26)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
@@ -273,6 +282,7 @@
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
@@ -296,10 +306,11 @@
 </ul>
 </details>
 <details>
-<summary>python - build with: pyproject-build (setuptools) <sup>(3)</sup></summary>
+<summary>python - build with: pyproject-build (setuptools) <sup>(4)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
 </ul>
 </details>
@@ -362,14 +373,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-01-26 16:28 UTC by topics_md.py (v2024.01.2) -->
+<!-- Generated 2024-02-11 20:29 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-01-26.*
+*The list below was generated based on the License assigned to each public repository as of 2024-02-11.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -422,6 +433,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT.</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix.</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them.</li>
+<li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file.</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file.</li>
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard </li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document.</li>
@@ -440,7 +452,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-01-26 16:28 UTC by topics_md.py (v2024.01.2) -->
+<!-- Generated 2024-02-11 20:29 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
