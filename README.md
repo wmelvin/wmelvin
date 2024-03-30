@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-03-01. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-03-29. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(8)</sup></summary>
@@ -93,8 +93,9 @@
 </ul>
 </details>
 <details>
-<summary>coursework <sup>(3)</sup></summary>
+<summary>coursework <sup>(4)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/audio-ai-with-assemblyai-course-wm">audio-ai-with-assemblyai-course-wm</a> (fork) - Build an Audio AI App with Python and AssemblyAI Course (fork) (MIT License)</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
@@ -394,14 +395,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-03-02 03:20 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-03-30 00:59 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-03-01.*
+*The list below was generated based on the License assigned to each public repository as of 2024-03-29.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -438,8 +439,10 @@ Repositories with no license may be:
 <details>
 <summary>MIT License</summary>
 <ul>
+<li><a href="https://github.com/wmelvin/audio-ai-with-assemblyai-course-wm">audio-ai-with-assemblyai-course-wm</a> (fork) - Build an Audio AI App with Python and AssemblyAI Course (fork)</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator.</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups.</li>
+<li><a href="https://github.com/wmelvin/explore-mkdocs-material">explore-mkdocs-material</a> - </li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities.</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools.</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location).</li>
@@ -475,7 +478,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-03-02 03:20 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-03-30 00:59 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
