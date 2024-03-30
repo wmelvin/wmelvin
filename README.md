@@ -161,8 +161,9 @@
 </ul>
 </details>
 <details>
-<summary>forked-repo <sup>(3)</sup></summary>
+<summary>forked-repo <sup>(4)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/audio-ai-with-assemblyai-course-wm">audio-ai-with-assemblyai-course-wm</a> (fork) - Build an Audio AI App with Python and AssemblyAI Course (fork) (MIT License)</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/htmx-python-course-wm">htmx-python-course-wm</a> (fork) - Student details, source code, and more for our HTMX + Flask: Modern Python Web Apps, Hold the JavaScript course. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
@@ -395,7 +396,7 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-03-30 00:59 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-03-30 01:04 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
@@ -478,7 +479,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-03-30 00:59 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-03-30 01:04 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
