@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-03-29. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-04-05. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(8)</sup></summary>
@@ -57,7 +57,7 @@
 </ul>
 </details>
 <details>
-<summary>Command-Line Tool <sup>(24)</sup></summary>
+<summary>Command-Line Tool <sup>(25)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
@@ -72,6 +72,7 @@
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/marksplitz">marksplitz</a> - Command-line utility to split a Markdown file into linked static web pages. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
@@ -102,7 +103,7 @@
 </ul>
 </details>
 <details>
-<summary>documentation-tool <sup>(10)</sup></summary>
+<summary>documentation-tool <sup>(11)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
@@ -110,6 +111,7 @@
 <li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/marksplitz">marksplitz</a> - Command-line utility to split a Markdown file into linked static web pages. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
@@ -266,7 +268,7 @@
 </ul>
 </details>
 <details>
-<summary>Python <sup>(28)</sup></summary>
+<summary>Python <sup>(29)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
@@ -285,6 +287,7 @@
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/marksplitz">marksplitz</a> - Command-line utility to split a Markdown file into linked static web pages. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
@@ -332,7 +335,7 @@
 </ul>
 </details>
 <details>
-<summary>python - pytest <sup>(13)</sup></summary>
+<summary>python - pytest <sup>(14)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
@@ -341,6 +344,7 @@
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/marksplitz">marksplitz</a> - Command-line utility to split a Markdown file into linked static web pages. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
@@ -396,14 +400,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-03-30 01:04 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-04-06 01:12 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-03-29.*
+*The list below was generated based on the License assigned to each public repository as of 2024-04-05.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -457,6 +461,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application.</li>
 <li><a href="https://github.com/wmelvin/index-images">index-images</a> - Scan a directory and create a HTML index of images.</li>
 <li><a href="https://github.com/wmelvin/libreoffice-doc-to-txt">libreoffice-doc-to-txt</a> - Python script that runs the libreoffice executable to convert ODT, DOC, and DOCX files to TXT.</li>
+<li><a href="https://github.com/wmelvin/marksplitz">marksplitz</a> - Command-line utility to split a Markdown file into linked static web pages.</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix.</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them.</li>
 <li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file.</li>
@@ -479,7 +484,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-03-30 01:04 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-04-06 01:12 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
