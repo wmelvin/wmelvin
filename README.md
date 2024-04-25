@@ -47,6 +47,12 @@
 </ul>
 </details>
 <details>
+<summary>bicep <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+</ul>
+</details>
+<details>
 <summary>C# <sup>(5)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
@@ -181,22 +187,10 @@
 <details>
 <summary>git <sup>(4)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
-</ul>
-</details>
-<details>
-<summary>git-log <sup>(1)</sup></summary>
-<ul>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
-</ul>
-</details>
-<details>
-<summary>github <sup>(1)</sup></summary>
-<ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 </ul>
 </details>
 <details>
@@ -413,7 +407,7 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-04-25 20:02 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-04-25 20:13 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
@@ -498,7 +492,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-04-25 20:02 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-04-25 20:13 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
