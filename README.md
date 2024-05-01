@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-04-25. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-05-01. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(8)</sup></summary>
@@ -269,7 +269,13 @@
 </ul>
 </details>
 <details>
-<summary>Python <sup>(30)</sup></summary>
+<summary>presentation <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
+</ul>
+</details>
+<details>
+<summary>Python <sup>(31)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
@@ -299,6 +305,7 @@
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
 </ul>
@@ -374,19 +381,21 @@
 </ul>
 </details>
 <details>
-<summary>textual <sup>(3)</sup></summary>
+<summary>textual <sup>(4)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
+<li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 </ul>
 </details>
 <details>
-<summary>tui <sup>(3)</sup></summary>
+<summary>tui <sup>(4)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
+<li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 </ul>
 </details>
 <details>
@@ -407,14 +416,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-04-25 20:13 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-05-01 15:12 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-04-25.*
+*The list below was generated based on the License assigned to each public repository as of 2024-05-01.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -436,6 +445,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
+<li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
 <li><a href="https://github.com/wmelvin/wmelvin">wmelvin</a> - </li>
@@ -492,7 +502,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-04-25 20:13 UTC by topics_md.py (v2024.02.1) -->
+<!-- Generated 2024-05-01 15:12 UTC by topics_md.py (v2024.02.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
