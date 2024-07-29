@@ -54,19 +54,14 @@
 </ul>
 </details>
 <details>
-<summary>C# <sup>(5)</sup></summary>
+<summary>C# <sup>(6)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
-<li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
-</ul>
-</details>
-<details>
-<summary>c-sharp <sup>(1)</sup></summary>
-<ul>
 <li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
+<li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
 </ul>
 </details>
 <details>
@@ -440,7 +435,7 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-07-29 19:06 UTC by topics_md.py (v2024.05.1) -->
+<!-- Generated 2024-07-29 19:14 UTC by topics_md.py (v2024.05.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
@@ -528,7 +523,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-07-29 19:06 UTC by topics_md.py (v2024.05.1) -->
+<!-- Generated 2024-07-29 19:14 UTC by topics_md.py (v2024.05.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
