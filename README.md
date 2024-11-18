@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-10-23. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-11-18. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -336,21 +336,21 @@
 </ul>
 </details>
 <details>
-<summary>python - build with: hatch <sup>(4)</sup></summary>
+<summary>python - build with: hatch <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
 </ul>
 </details>
 <details>
-<summary>python - build with: pyproject-build (setuptools) <sup>(6)</sup></summary>
+<summary>python - build with: pyproject-build (setuptools) <sup>(7)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/marksplitz">marksplitz</a> - Command-line utility to split a Markdown file into linked static web pages. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
 </ul>
@@ -382,6 +382,12 @@
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
+</ul>
+</details>
+<details>
+<summary>python - uv <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -435,14 +441,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-10-23 15:06 UTC by topics_md.py (v2024.05.1) -->
+<!-- Generated 2024-11-18 14:08 UTC by topics_md.py (v2024.05.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-10-23.*
+*The list below was generated based on the License assigned to each public repository as of 2024-11-18.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -523,7 +529,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-10-23 15:06 UTC by topics_md.py (v2024.05.1) -->
+<!-- Generated 2024-11-18 14:08 UTC by topics_md.py (v2024.05.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
