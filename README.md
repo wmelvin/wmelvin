@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-11-18. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-12-05. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -13,7 +13,7 @@
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
-<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
@@ -23,7 +23,7 @@
 <summary>Azure Functions <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
-<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 </ul>
 </details>
 <details>
@@ -35,8 +35,8 @@
 <details>
 <summary>backups <sup>(3)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script. (MIT License)</li>
 </ul>
 </details>
@@ -57,9 +57,9 @@
 <summary>C# <sup>(6)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
-<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
 </ul>
@@ -67,8 +67,8 @@
 <details>
 <summary>Command-Line Tool <sup>(27)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
@@ -150,9 +150,9 @@
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
-<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
 <li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
@@ -191,13 +191,13 @@
 <details>
 <summary>fossil-scm <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 </ul>
 </details>
 <details>
 <summary>git <sup>(4)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
@@ -281,7 +281,7 @@
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
-<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 </ul>
 </details>
@@ -296,8 +296,8 @@
 <summary>Python <sup>(32)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
-<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
@@ -367,8 +367,8 @@
 <details>
 <summary>python - pytest <sup>(15)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
@@ -435,20 +435,20 @@
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
-<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 </ul>
 </details>
 </details>
-<!-- Generated 2024-11-18 14:08 UTC by topics_md.py (v2024.05.1) -->
+<!-- Generated 2024-12-05 20:38 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-11-18.*
+*The list below was generated based on the License assigned to each public repository as of 2024-12-05.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -466,10 +466,10 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
-<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
-<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
 <li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
@@ -489,8 +489,8 @@ Repositories with no license may be:
 <summary>MIT License</summary>
 <ul>
 <li><a href="https://github.com/wmelvin/audio-ai-with-assemblyai-course-wm">audio-ai-with-assemblyai-course-wm</a> (fork) - Build an Audio AI App with Python and AssemblyAI Course (fork)</li>
-<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator.</li>
-<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups.</li>
+<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator.</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups.</li>
 <li><a href="https://github.com/wmelvin/explore-mkdocs-material">explore-mkdocs-material</a> - </li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities.</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools.</li>
@@ -529,7 +529,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-11-18 14:08 UTC by topics_md.py (v2024.05.1) -->
+<!-- Generated 2024-12-05 20:38 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
