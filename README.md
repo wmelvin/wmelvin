@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-12-05. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2024-12-16. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -11,7 +11,7 @@
 <li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
-<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
@@ -73,7 +73,7 @@
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
-<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
@@ -90,7 +90,7 @@
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script. (MIT License)</li>
@@ -131,7 +131,7 @@
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
 </ul>
 </details>
@@ -148,21 +148,21 @@
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
-<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
-<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
+<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> (archived) - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
 </ul>
 </details>
 <details>
 <summary>Firefox <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
-<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
 </ul>
 </details>
@@ -175,7 +175,7 @@
 <details>
 <summary>flask <sup>(2)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 </ul>
 </details>
@@ -250,7 +250,7 @@
 <details>
 <summary>jupyter-notebook <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
+<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> (archived) - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
 </ul>
 </details>
 <details>
@@ -279,7 +279,7 @@
 <li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
-<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
@@ -303,8 +303,8 @@
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
-<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
@@ -323,10 +323,10 @@
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
+<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> (archived) - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
 </ul>
 </details>
 <details>
@@ -402,7 +402,7 @@
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
-<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -433,7 +433,7 @@
 <summary>Web <sup>(6)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
-<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
@@ -441,14 +441,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-12-05 20:38 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2024-12-16 20:23 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-12-05.*
+*The list below was generated based on the License assigned to each public repository as of 2024-12-16.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -464,7 +464,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/completed-courses">completed-courses</a> - Documenting my completed training courses.</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
-<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
@@ -482,7 +482,7 @@ Repositories with no license may be:
 <details>
 <summary>Apache License 2.0</summary>
 <ul>
-<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai.</li>
+<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> (archived) - Exploring nbdev by fast.ai.</li>
 </ul>
 </details>
 <details>
@@ -496,7 +496,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools.</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location).</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more).</li>
-<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database.</li>
+<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database.</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit.</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path.</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API.</li>
@@ -515,7 +515,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard </li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document.</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots.</li>
-<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV.</li>
+<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV.</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items.</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples</li>
 <li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory.</li>
@@ -529,7 +529,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-12-05 20:38 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2024-12-16 20:23 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
