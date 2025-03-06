@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2024-12-16. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-03-06. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -43,7 +43,7 @@
 <details>
 <summary>bash <sup>(2)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/venvup">venvup</a> (archived) - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script. (MIT License)</li>
 </ul>
 </details>
@@ -92,7 +92,7 @@
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/venvup">venvup</a> (archived) - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script. (MIT License)</li>
 </ul>
 </details>
@@ -344,7 +344,7 @@
 </ul>
 </details>
 <details>
-<summary>python - build with: pyproject-build (setuptools) <sup>(7)</sup></summary>
+<summary>python - build with: pyproject-build (setuptools) <sup>(8)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
@@ -353,6 +353,7 @@
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -385,9 +386,10 @@
 </ul>
 </details>
 <details>
-<summary>python - uv <sup>(1)</sup></summary>
+<summary>python - uv <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -426,7 +428,7 @@
 <details>
 <summary>venv <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/venvup">venvup</a> (archived) - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -441,14 +443,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2024-12-16 20:23 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-03-06 19:39 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2024-12-16.*
+*The list below was generated based on the License assigned to each public repository as of 2025-03-06.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -518,7 +520,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV.</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items.</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples</li>
-<li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory.</li>
+<li><a href="https://github.com/wmelvin/venvup">venvup</a> (archived) - Bash script to set up a Python virtual environment (venv) in the current directory.</li>
 <li><a href="https://github.com/wmelvin/wipbak">wipbak</a> - Work-in-progress backup script.</li>
 </ul>
 </details>
@@ -529,7 +531,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2024-12-16 20:23 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-03-06 19:39 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
