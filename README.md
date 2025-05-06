@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-05-01. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-05-06. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -386,9 +386,11 @@
 </ul>
 </details>
 <details>
-<summary>python - uv <sup>(3)</sup></summary>
+<summary>python - uv <sup>(5)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
+<li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
 </ul>
@@ -444,14 +446,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-05-02 02:53 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-05-06 13:39 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-05-01.*
+*The list below was generated based on the License assigned to each public repository as of 2025-05-06.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -532,7 +534,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-05-02 02:53 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-05-06 13:39 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
