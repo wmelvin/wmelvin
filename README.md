@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-05-06. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-02. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -65,12 +65,14 @@
 </ul>
 </details>
 <details>
-<summary>Command-Line Tool <sup>(27)</sup></summary>
+<summary>Command-Line Tool <sup>(29)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
+<li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
@@ -293,14 +295,15 @@
 </ul>
 </details>
 <details>
-<summary>Python <sup>(32)</sup></summary>
+<summary>Python <sup>(33)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
+<li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
-<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
@@ -338,7 +341,7 @@
 <details>
 <summary>python - build with: hatch <sup>(3)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
 </ul>
@@ -366,10 +369,11 @@
 </ul>
 </details>
 <details>
-<summary>python - pytest <sup>(15)</sup></summary>
+<summary>python - pytest <sup>(16)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
@@ -386,13 +390,20 @@
 </ul>
 </details>
 <details>
-<summary>python - uv <sup>(5)</sup></summary>
+<summary>python - uv <sup>(6)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
+</ul>
+</details>
+<details>
+<summary>rust-lang <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 </ul>
 </details>
 <details>
@@ -404,7 +415,7 @@
 <details>
 <summary>sqlite <sup>(4)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
@@ -413,7 +424,7 @@
 <details>
 <summary>textual <sup>(4)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
 <li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
@@ -422,7 +433,7 @@
 <details>
 <summary>tui <sup>(4)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
 <li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
@@ -446,14 +457,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-05-06 13:39 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-12-02 17:53 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-05-06.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-02.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -468,7 +479,9 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/completed-courses">completed-courses</a> - Documenting my completed training courses.</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
+<li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
+<li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
@@ -498,7 +511,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups.</li>
 <li><a href="https://github.com/wmelvin/explore-mkdocs-material">explore-mkdocs-material</a> - </li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities.</li>
-<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools.</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools.</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location).</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more).</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database.</li>
@@ -534,7 +547,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-05-06 13:39 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-12-02 17:53 UTC by topics_md.py (v2024.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
