@@ -3,8 +3,24 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-02. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-08. Any repository may be under multiple topics.*
 
+<details>
+<summary>(Archived) <sup>(11)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
+<li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
+<li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
+<li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
+</ul>
+</details>
 <details>
 <summary>Azure <sup>(9)</sup></summary>
 <ul>
@@ -457,14 +473,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-02 17:53 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-12-08 20:21 UTC by topics_md.py (v2025.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-02.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-08.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -547,7 +563,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-02 17:53 UTC by topics_md.py (v2024.12.1) -->
+<!-- Generated 2025-12-08 20:21 UTC by topics_md.py (v2025.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
