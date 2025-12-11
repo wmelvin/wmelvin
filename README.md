@@ -3,16 +3,19 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-08. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-11. Any repository may be under multiple topics.*
 
 <details>
-<summary>(Archived) <sup>(11)</sup></summary>
+<summary>(Archived) <sup>(14)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
@@ -25,10 +28,10 @@
 <summary>Azure <sup>(9)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
-<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
-<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
@@ -38,7 +41,7 @@
 <details>
 <summary>Azure Functions <sup>(2)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 </ul>
 </details>
@@ -125,7 +128,7 @@
 <summary>coursework <sup>(4)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/audio-ai-with-assemblyai-course-wm">audio-ai-with-assemblyai-course-wm</a> (fork) - Build an Audio AI App with Python and AssemblyAI Course (fork) (MIT License)</li>
-<li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
+<li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> (archived) - </li>
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
@@ -163,11 +166,11 @@
 <details>
 <summary>explore <sup>(11)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
-<li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
+<li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> (archived) - </li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
-<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
@@ -194,7 +197,7 @@
 <summary>flask <sup>(2)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
-<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 </ul>
 </details>
 <details>
@@ -295,10 +298,10 @@
 <summary>PowerShell <sup>(7)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
-<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
-<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 </ul>
@@ -313,7 +316,7 @@
 <details>
 <summary>Python <sup>(33)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
@@ -324,7 +327,7 @@
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> (archived) - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
-<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
@@ -464,23 +467,23 @@
 <details>
 <summary>Web <sup>(6)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
-<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-08 20:21 UTC by topics_md.py (v2025.12.1) -->
+<!-- Generated 2025-12-11 12:33 UTC by topics_md.py (v2025.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-08.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-11.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -491,15 +494,15 @@ Repositories with no license may be:
 <summary>(none)</summary>
 <ul>
 <li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
-<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
+<li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/completed-courses">completed-courses</a> - Documenting my completed training courses.</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
-<li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
+<li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> (archived) - </li>
 <li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
-<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
+<li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
@@ -563,7 +566,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-08 20:21 UTC by topics_md.py (v2025.12.1) -->
+<!-- Generated 2025-12-11 12:33 UTC by topics_md.py (v2025.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
