@@ -3,20 +3,22 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-11. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-14. Any repository may be under multiple topics.*
 
 <details>
-<summary>(Archived) <sup>(14)</sup></summary>
+<summary>(Archived) <sup>(16)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> - </li>
+<li><a href="https://github.com/wmelvin/explore-mkdocs-material">explore-mkdocs-material</a> -  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-places">firefox-places</a> - Command-line tool to export some items from the Firefox places.sqlite database. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
@@ -27,7 +29,7 @@
 <details>
 <summary>Azure <sup>(9)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (almost a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
@@ -48,7 +50,7 @@
 <details>
 <summary>azure-custom-script-extension <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (almost a pipeline)</li>
 </ul>
 </details>
 <details>
@@ -69,7 +71,7 @@
 <details>
 <summary>bicep <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (almost a pipeline)</li>
 </ul>
 </details>
 <details>
@@ -84,11 +86,12 @@
 </ul>
 </details>
 <details>
-<summary>Command-Line Tool <sup>(29)</sup></summary>
+<summary>Command-Line Tool <sup>(30)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
+<li><a href="https://github.com/wmelvin/dtbak">dtbak</a> - Date-Time Backup utility - make a backup copy of one file</li>
 <li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
@@ -129,7 +132,7 @@
 <ul>
 <li><a href="https://github.com/wmelvin/audio-ai-with-assemblyai-course-wm">audio-ai-with-assemblyai-course-wm</a> (fork) - Build an Audio AI App with Python and AssemblyAI Course (fork) (MIT License)</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> (archived) - </li>
-<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> (archived) - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/tpt-python-data-visualization">tpt-python-data-visualization</a> (fork) - Talk Python Training - Python Data Visualization course code and examples (MIT License)</li>
 </ul>
 </details>
@@ -227,7 +230,7 @@
 <details>
 <summary>github-actions <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> (archived) - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 </ul>
 </details>
 <details>
@@ -277,7 +280,7 @@
 <details>
 <summary>lazarus-ide <sup>(2)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (almost a pipeline)</li>
 <li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
 </ul>
 </details>
@@ -297,7 +300,7 @@
 <details>
 <summary>PowerShell <sup>(7)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (almost a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
@@ -341,7 +344,7 @@
 <li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
-<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> (archived) - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
@@ -402,7 +405,7 @@
 <li><a href="https://github.com/wmelvin/masht">masht</a> - Reads a Markdown file and writes a HTML file by the same name, with a '.AS.html' suffix. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/montage">montage</a> - Creates a montage given a list of images and parameters for placing them. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
-<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> (archived) - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/todolister">todolister</a> - Command-line tool scans text files and generates a HTML report listing found to-do items. (MIT License)</li>
@@ -420,8 +423,9 @@
 </ul>
 </details>
 <details>
-<summary>rust-lang <sup>(1)</sup></summary>
+<summary>rust-lang <sup>(2)</sup></summary>
 <ul>
+<li><a href="https://github.com/wmelvin/dtbak">dtbak</a> - Date-Time Backup utility - make a backup copy of one file</li>
 <li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 </ul>
 </details>
@@ -476,14 +480,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-11 12:33 UTC by topics_md.py (v2025.12.1) -->
+<!-- Generated 2025-12-14 13:39 UTC by topics_md.py (v2025.12.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-11.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-14.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -493,13 +497,14 @@ Repositories with no license may be:
 <details>
 <summary>(none)</summary>
 <ul>
-<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (not quite a pipeline)</li>
+<li><a href="https://github.com/wmelvin/az-vm-laz-build">az-vm-laz-build</a> - Scripts to create, run, and delete an Azure VM for building a Lazarus project (almost a pipeline)</li>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
 <li><a href="https://github.com/wmelvin/completed-courses">completed-courses</a> - Documenting my completed training courses.</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> (archived) - </li>
+<li><a href="https://github.com/wmelvin/dtbak">dtbak</a> - Date-Time Backup utility - make a backup copy of one file</li>
 <li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
@@ -528,7 +533,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/audio-ai-with-assemblyai-course-wm">audio-ai-with-assemblyai-course-wm</a> (fork) - Build an Audio AI App with Python and AssemblyAI Course (fork)</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator.</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups.</li>
-<li><a href="https://github.com/wmelvin/explore-mkdocs-material">explore-mkdocs-material</a> - </li>
+<li><a href="https://github.com/wmelvin/explore-mkdocs-material">explore-mkdocs-material</a> (archived) - </li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities.</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools.</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location).</li>
@@ -549,7 +554,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/mp3-tag-lister">mp3-tag-lister</a> - Reads ID3 tags in MP3 files and writes specific tags to a CSV file.</li>
 <li><a href="https://github.com/wmelvin/mp3pic">mp3pic</a> - Add a cover-art image to a mp3 file.</li>
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app</li>
-<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> - Work on exercises from book Publishing Python Packages by Dane Hillard </li>
+<li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> (archived) - Work on exercises from book Publishing Python Packages by Dane Hillard </li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document.</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots.</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV.</li>
@@ -566,7 +571,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-11 12:33 UTC by topics_md.py (v2025.12.1) -->
+<!-- Generated 2025-12-14 13:39 UTC by topics_md.py (v2025.12.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
