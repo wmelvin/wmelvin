@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-15. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-17. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -65,11 +65,12 @@
 </ul>
 </details>
 <details>
-<summary>Command-Line Tool <sup>(30)</sup></summary>
+<summary>Command-Line Tool <sup>(31)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
+<li><a href="https://github.com/wmelvin/dir-to-md">dir-to-md</a> - Write a list of file names in a directory to a markdown file.</li>
 <li><a href="https://github.com/wmelvin/dtbak">dtbak</a> - Date-Time Backup utility - make a backup copy of one file</li>
 <li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
@@ -122,9 +123,10 @@
 </ul>
 </details>
 <details>
-<summary>documentation-tool <sup>(12)</sup></summary>
+<summary>documentation-tool <sup>(13)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
+<li><a href="https://github.com/wmelvin/dir-to-md">dir-to-md</a> - Write a list of file names in a directory to a markdown file.</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/ImagePicker">ImagePicker</a> - Desktop app for picking images and saving the list to a text file for use in another application. (MIT License)</li>
@@ -296,13 +298,14 @@
 </ul>
 </details>
 <details>
-<summary>Python <sup>(33)</sup></summary>
+<summary>Python <sup>(34)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
+<li><a href="https://github.com/wmelvin/dir-to-md">dir-to-md</a> - Write a list of file names in a directory to a markdown file.</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-query">filelist-query</a> (archived) - Textual user interface for querying databases created by filelist-tools. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
@@ -370,11 +373,12 @@
 </ul>
 </details>
 <details>
-<summary>python - pytest <sup>(16)</sup></summary>
+<summary>python - pytest <sup>(17)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
+<li><a href="https://github.com/wmelvin/dir-to-md">dir-to-md</a> - Write a list of file names in a directory to a markdown file.</li>
 <li><a href="https://github.com/wmelvin/fewtilities">fewtilities</a> - A few utilities. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/filelist-tools">filelist-tools</a> - Tools for making and working with a filelist (an inventory of files in a given location). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
@@ -391,9 +395,10 @@
 </ul>
 </details>
 <details>
-<summary>python - uv <sup>(6)</sup></summary>
+<summary>python - uv <sup>(7)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
+<li><a href="https://github.com/wmelvin/dir-to-md">dir-to-md</a> - Write a list of file names in a directory to a markdown file.</li>
 <li><a href="https://github.com/wmelvin/firefox-bookmark-export">firefox-bookmark-export</a> - Exports Firefox bookmarks to a single HTML file (and more). (MIT License)</li>
 <li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/image-snip">image-snip</a> - Command-line utility to apply same crop and/or zoom to a batch of images. (MIT License)</li>
@@ -481,14 +486,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-15 13:21 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-17 12:09 UTC by topics_md.py (v2025.12.2) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-15.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-17.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -505,6 +510,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/copilot-chat-export-formatter-wm">copilot-chat-export-formatter-wm</a> (fork) - this python script takes the raw Visual Studio Code Github Copilot chat log and turns it into a more readable text file</li>
 <li><a href="https://github.com/wmelvin/csv-to-md">csv-to-md</a> - Reads a CSV file and writes a Markdown table</li>
 <li><a href="https://github.com/wmelvin/deployment-test">deployment-test</a> (archived) - </li>
+<li><a href="https://github.com/wmelvin/dir-to-md">dir-to-md</a> - Write a list of file names in a directory to a markdown file.</li>
 <li><a href="https://github.com/wmelvin/dtbak">dtbak</a> - Date-Time Backup utility - make a backup copy of one file</li>
 <li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
@@ -572,7 +578,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-15 13:21 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-17 12:09 UTC by topics_md.py (v2025.12.2) -->
 <!-- End_Repositories_by_License -->
 
 <details>
