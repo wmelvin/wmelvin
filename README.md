@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-17. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-18. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -14,7 +14,7 @@
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
-<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
+<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> (archived) - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
 </ul>
@@ -60,7 +60,7 @@
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
-<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
+<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> (archived) - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
 </ul>
 </details>
@@ -243,7 +243,7 @@
 <details>
 <summary>image-recognition <sup>(1)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
+<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> (archived) - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 </ul>
 </details>
 <details>
@@ -293,7 +293,7 @@
 <details>
 <summary>presentation <sup>(2)</sup></summary>
 <ul>
-<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
+<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> (archived) - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> (archived) - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 </ul>
 </details>
@@ -464,7 +464,7 @@
 </ul>
 </details>
 <details>
-<summary>(Archived) <sup>(17)</sup></summary>
+<summary>(Archived) <sup>(18)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> - Backup rotation plan generator. (MIT License)</li>
@@ -480,20 +480,21 @@
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 <li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> - Exploring nbdev by fast.ai. (Apache License 2.0)</li>
 <li><a href="https://github.com/wmelvin/venvup">venvup</a> - Bash script to set up a Python virtual environment (venv) in the current directory. (MIT License)</li>
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-17 12:09 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-19 00:00 UTC by topics_md.py (v2025.12.2) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-17.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-18.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -520,7 +521,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
-<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
+<li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> (archived) - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/talk-textual-cohpy">talk-textual-cohpy</a> (archived) - A talk about Textual presented at the Central Ohio Python Users Group 2024-04-29</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> - Scripts from exploring Azure CLI and PowerShell.</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
@@ -578,7 +579,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-17 12:09 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-19 00:00 UTC by topics_md.py (v2025.12.2) -->
 <!-- End_Repositories_by_License -->
 
 <details>
