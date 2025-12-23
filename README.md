@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-19. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-22. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -62,6 +62,13 @@
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/talk-lost-books-condg">talk-lost-books-condg</a> (archived) - A lightning talk for the July 2024 meeting of the Central Ohio .NET Developer's Group</li>
 <li><a href="https://github.com/wmelvin/try-azure-ocr">try-azure-ocr</a> - Try using Azure Form Recognizer to extract text from images of book covers.</li>
+</ul>
+</details>
+<details>
+<summary>coding-agent <sup>(2)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/dtbak">dtbak</a> - Date-Time Backup utility - make a backup copy of one file</li>
+<li><a href="https://github.com/wmelvin/rustybits">rustybits</a> - Small demos to learn some rust via prompting a coding agent with Python examples</li>
 </ul>
 </details>
 <details>
@@ -148,7 +155,7 @@
 </ul>
 </details>
 <details>
-<summary>explore <sup>(11)</sup></summary>
+<summary>explore <sup>(12)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/blobby-tables">blobby-tables</a> - Explore Azure Storage blobs and tables.</li>
@@ -156,6 +163,7 @@
 <li><a href="https://github.com/wmelvin/flask-file-up">flask-file-up</a> (archived) - File Upload using Flask - demo - work-in-progress</li>
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
+<li><a href="https://github.com/wmelvin/rustybits">rustybits</a> - Small demos to learn some rust via prompting a coding agent with Python examples</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/try-az-pwsh">try-az-pwsh</a> (archived) - Scripts from exploring Azure CLI and PowerShell.</li>
@@ -298,7 +306,7 @@
 </ul>
 </details>
 <details>
-<summary>Python <sup>(34)</sup></summary>
+<summary>Python <sup>(35)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> (archived) - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
 <li><a href="https://github.com/wmelvin/backup-rotation">backup-rotation</a> (archived) - Backup rotation plan generator. (MIT License)</li>
@@ -328,6 +336,7 @@
 <li><a href="https://github.com/wmelvin/pomodorable">pomodorable</a> - A pomodoro timer implemented as a Textual app (MIT License)</li>
 <li><a href="https://github.com/wmelvin/pub-py-pkg">pub-py-pkg</a> (archived) - Work on exercises from book Publishing Python Packages by Dane Hillard  (MIT License)</li>
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
+<li><a href="https://github.com/wmelvin/rustybits">rustybits</a> - Small demos to learn some rust via prompting a coding agent with Python examples</li>
 <li><a href="https://github.com/wmelvin/sausage">sausage</a> - Command-line tool to capture help/usage message and insert into a copy of a Markdown document. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/scapr">scapr</a> - A Python script that uses Pillow's ImageGrab to capture screenshots. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/smb-conf-csv">smb-conf-csv</a> (archived) - Command-line tool to read a Samba config file and write some file share details as CSV. (MIT License)</li>
@@ -407,10 +416,11 @@
 </ul>
 </details>
 <details>
-<summary>rust-lang <sup>(2)</sup></summary>
+<summary>rust <sup>(3)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/dtbak">dtbak</a> - Date-Time Backup utility - make a backup copy of one file</li>
 <li><a href="https://github.com/wmelvin/dtren">dtren</a> - Date-Time Rename utility</li>
+<li><a href="https://github.com/wmelvin/rustybits">rustybits</a> - Small demos to learn some rust via prompting a coding agent with Python examples</li>
 </ul>
 </details>
 <details>
@@ -488,14 +498,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-19 13:59 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-23 02:23 UTC by topics_md.py (v2025.12.2) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-19.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-22.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -519,6 +529,7 @@ Repositories with no license may be:
 <li><a href="https://github.com/wmelvin/flask-fileup-az">flask-fileup-az</a> (archived) - File Upload using Flask, Azure Storage, and MSAL. Demo/work-in-progress.</li>
 <li><a href="https://github.com/wmelvin/funcisox">funcisox</a> (archived) - Use Azure Durable Functions to process audio with the Sox utility (work-in-progress learning project).</li>
 <li><a href="https://github.com/wmelvin/run-carbon-cli">run-carbon-cli</a> - Run the carbon-now CLI via a Python script in a Docker container to create code images</li>
+<li><a href="https://github.com/wmelvin/rustybits">rustybits</a> - Small demos to learn some rust via prompting a coding agent with Python examples</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-cli">scaffold-identity-cli</a> (archived) - Explore identity scaffolding using dotnet CLI on Linux.</li>
 <li><a href="https://github.com/wmelvin/scaffold-identity-vs">scaffold-identity-vs</a> (archived) - Explore identity scaffolding in VS-2022.</li>
 <li><a href="https://github.com/wmelvin/tabulence">tabulence</a> - Firefox extension lists title and URL for all tabls in current window.</li>
@@ -580,7 +591,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-19 13:59 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-23 02:23 UTC by topics_md.py (v2025.12.2) -->
 <!-- End_Repositories_by_License -->
 
 <details>
@@ -589,5 +600,7 @@ Repositories with no license may be:
 - The code, used to generate the *Repositories by Topic* and *Repositories by License* sections, is in the [github-repo-info](https://github.com/wmelvin/github-repo-info) repository.
 
 - The GitHub docs describe how to create a [profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), and how to use [collapsed-sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections).
+
+*I fight entropy. Entropy always wins.*
 
 </details>
