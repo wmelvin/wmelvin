@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-23. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2025-12-26. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -209,11 +209,12 @@
 </ul>
 </details>
 <details>
-<summary>git <sup>(4)</sup></summary>
+<summary>git <sup>(5)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/bak-to-git">bak-to-git</a> (archived) - Create initial git commit history from work-in-progress backups. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-log-md">git-log-md</a> - Uses 'git log' to create a Markdown document listing message, hash, and timestamp for each commit. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/git-status-report">git-status-report</a> - Command-line utility that writes a text file listing status info for Git repos found under a given path. (MIT License)</li>
+<li><a href="https://github.com/wmelvin/github-repo-info">github-repo-info</a> - A set of Python scripts for retrieving, and working with, data from the GitHub API. (MIT License)</li>
 <li><a href="https://github.com/wmelvin/gitramble">gitramble</a> - Ramble through a project's git log history (MIT License)</li>
 </ul>
 </details>
@@ -500,14 +501,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-23 13:33 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-26 14:40 UTC by topics_md.py (2025.12.26.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-23.*
+*The list below was generated based on the License assigned to each public repository as of 2025-12-26.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -593,7 +594,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-23 13:33 UTC by topics_md.py (v2025.12.2) -->
+<!-- Generated 2025-12-26 14:40 UTC by topics_md.py (2025.12.26.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
