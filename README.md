@@ -3,7 +3,7 @@
 <details>
 <summary><b>Repositories by Topic</b></summary>
 
-*The list below was generated based on the Topics assigned to each public repository as of 2025-12-26. Any repository may be under multiple topics.*
+*The list below was generated based on the Topics assigned to each public repository as of 2026-02-24. Any repository may be under multiple topics.*
 
 <details>
 <summary>Azure <sup>(9)</sup></summary>
@@ -476,6 +476,12 @@
 </ul>
 </details>
 <details>
+<summary>zfs-snapshot-automation <sup>(1)</sup></summary>
+<ul>
+<li><a href="https://github.com/wmelvin/sanoid-wm">sanoid-wm</a> (fork) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) (GNU General Public License v3.0)</li>
+</ul>
+</details>
+<details>
 <summary>(Archived) <sup>(20)</sup></summary>
 <ul>
 <li><a href="https://github.com/wmelvin/azfunc-md-csv">azfunc-md-csv</a> - Azure Function (Python) that creates a Markdown table from a CSV file.</li>
@@ -501,14 +507,14 @@
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-26 14:40 UTC by topics_md.py (2025.12.26.1) -->
+<!-- Generated 2026-02-24 15:56 UTC by topics_md.py (2025.12.26.1) -->
 <!-- End_Repositories_by_Topic -->
 
 <!-- Begin_Repositories_by_License -->
 <details>
 <summary><b>Repositories by License</b></summary>
 
-*The list below was generated based on the License assigned to each public repository as of 2025-12-26.*
+*The list below was generated based on the License assigned to each public repository as of 2026-02-24.*
 
 Repositories with no license may be:
 - A work-in-progress, which may be given a license when more complete.
@@ -548,6 +554,12 @@ Repositories with no license may be:
 <summary>Apache License 2.0</summary>
 <ul>
 <li><a href="https://github.com/wmelvin/try-nbdev">try-nbdev</a> (archived) - Exploring nbdev by fast.ai.</li>
+</ul>
+</details>
+<details>
+<summary>GNU General Public License v3.0</summary>
+<ul>
+<li><a href="https://github.com/wmelvin/sanoid-wm">sanoid-wm</a> (fork) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)</li>
 </ul>
 </details>
 <details>
@@ -594,7 +606,7 @@ Repositories with no license may be:
 </ul>
 </details>
 </details>
-<!-- Generated 2025-12-26 14:40 UTC by topics_md.py (2025.12.26.1) -->
+<!-- Generated 2026-02-24 15:56 UTC by topics_md.py (2025.12.26.1) -->
 <!-- End_Repositories_by_License -->
 
 <details>
